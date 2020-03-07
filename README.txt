@@ -1,6 +1,6 @@
-If you want to change the line width, please click one of the line width button and then click the shape tool to draw a shape of that line width!
+The code follows MVC design pattern (it has two views - canvasView and toolbarView), and rough OOP pattern. 
 
-Rightnow, only erasing the circle works the best!!
+If you want to change the line width, please click one of the line width button and then click the shape tool to draw a shape of that line width!
 
 Thanks!!
 
